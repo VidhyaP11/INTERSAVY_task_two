@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image:url("https://tse2.mm.bing.net/th?id=OIP.WbLpBHm_67YPoWuSDH4K_wHaEo&pid=Api&P=0&h=180");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: aliceblue;
+  }
+  
+  .countdown {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  }
+  
+  .timer {
+    font-size: 3rem;
+    margin: 0 10px;
+    color: aliceblue;
+  }
+  .d{
+    font-weight: bolder;
+    margin-left: 5px;
+    color: aliceblue;
+  }
+  .countdown1{
+    margin-left: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
